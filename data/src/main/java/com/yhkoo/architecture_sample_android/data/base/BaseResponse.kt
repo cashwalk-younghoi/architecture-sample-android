@@ -1,0 +1,3 @@
+package com.yhkoo.architecture_sample_android.data.base
+
+interface BaseResponse
